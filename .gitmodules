@@ -1,0 +1,3 @@
+[submodule "LRMS-Frontend"]
+	path = LRMS-Frontend
+	url = https://github.com/theMyntt/LRMS-frontend.git
