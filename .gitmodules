@@ -1,3 +1,6 @@
 [submodule "LRMS-Frontend"]
 	path = LRMS-Frontend
 	url = https://github.com/theMyntt/LRMS-frontend.git
+[submodule "LRMS-Backend"]
+	path = LRMS-Backend
+	url = https://github.com/themyntt/LRMS-Backend.git
